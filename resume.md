@@ -17,7 +17,7 @@
 >> * R  
     * 의학 논문 작성을 위한 R통계     
     * R cookbook  
-    * R graphics cookbook
+    * R graphics cookbook  
     * R을이용한 데이터 처리&분석 실무  
        
 >> * python
@@ -28,4 +28,4 @@
 
 ![의학 논문 작성을 위한 R통계학](의학논문작성R통계그래프.jpg)  
 ![R cook book](Rcookbook.jpg)  
-![R데이터처리](R데이터처리.jpg)
+![R데이터처리](R데이터처리.jpg)  
