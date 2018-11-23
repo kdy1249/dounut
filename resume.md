@@ -12,27 +12,20 @@
 ### 앞으로 공부할것
 >> * 의학 통계학  
     * 의학통계의 기초  
-      ![의학통계의 기초](의학통계기초.jpg)   
     * 직관으로 이해하는 의학통계학  
-      ![직관이해 의학통계](직관이해 의학통계.jpg)
       
 >> * R  
-    * 의학 논문 작성을 위한 R통계   
-      ![의학 논문 작성을 위한 R통계학](의학논문작성R통계그래프.jpg)  
-    * R cook book  
-      ![R cook book](Rcookbook.jpg)  
+    * 의학 논문 작성을 위한 R통계     
+    * R cookbook  
+    * R graphics cookbook
     * R을이용한 데이터 처리&분석 실무  
-      ![R데이터처리](R데이터처리.jpg)
        
 >> * python
-    * 생물정보학    
------------------- 
-참조링크 :: [구글][1]   
-인라인링크 :: [구글](http://www.google.com)  
-자동 링크 :: <http://www.hallym.ac.kr>
+    * python cookbook
+------------------
+![의학통계의 기초](의학통계기초.jpg) 
+![직관이해 의학통계](직관이해 의학통계.jpg)  
 
-
-
-
-
-[1]: https://www.google.com
+![의학 논문 작성을 위한 R통계학](의학논문작성R통계그래프.jpg)  
+![R cook book](Rcookbook.jpg)  
+![R데이터처리](R데이터처리.jpg)
